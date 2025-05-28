@@ -97,7 +97,8 @@ OOP, SOLID, Clean Architecture, Agile (Scrum), Unit Testing, Git
 
 ## 📊 GitHub Stats
 
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nourhewaidy&show_icons=true&theme=tokyonight)
+![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=NourEldinMahmoudAbdelkarim&show_icons=true&theme=tokyonight)
+
 
 ---
 
