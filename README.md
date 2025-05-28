@@ -94,10 +94,3 @@ OOP, SOLID, Clean Architecture, Agile (Scrum), Unit Testing, Git
 - 👥 Attending tech meetups and mentoring junior developers
 
 ---
-
-
-
-
----
-
-> “Clean code always looks like it was written by someone who cares.” – Robert C. Martin
